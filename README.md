@@ -37,6 +37,6 @@ Catherine Bolick : https://github.com/C-Bolick
 ## License
 N/A
 
-[!Alt text](<Screenshot 2023-08-16 163639.png>)
+[!Alt text](<image.png>)
 
 https://nameless-wildwood-92046-3920624a856d.herokuapp.com/
